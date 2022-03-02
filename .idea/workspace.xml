@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbf66830-5ee1-41dc-8ff3-a5c93ad27845" name="Changes" comment="Added Coin Flip Program that calculates chances of getting 6 heads or tails in a row over 100 flips repeated 10000 times">
-      <change afterPath="$PROJECT_DIR$/Chapter 5 Dictionaries &amp; Structuring Data/characterCount.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 5 Dictionaries &amp; Structuring Data/ticTacToe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Automate-the-Boring-Stuff-Lesson-Code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Automate-the-Boring-Stuff-Lesson-Code.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="cbf66830-5ee1-41dc-8ff3-a5c93ad27845" name="Changes" comment="Added ticTacToe.py a basic Tictactoe program">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 5 Dictionaries &amp; Structuring Data/Practice Dictionairies.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 5 Dictionaries &amp; Structuring Data/Practice Dictionairies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 5 Dictionaries &amp; Structuring Data/Chess Dictionary Validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 5 Dictionaries &amp; Structuring Data/Chess Dictionary Validator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +37,28 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.ticTacToe">
+  <component name="RunManager" selected="Python.Chess Dictionary Validator">
+    <configuration name="Chess Dictionary Validator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Automate-the-Boring-Stuff-Lesson-Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 5 Dictionaries &amp; Structuring Data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 5 Dictionaries &amp; Structuring Data/Chess Dictionary Validator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Comma" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Automate-the-Boring-Stuff-Lesson-Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,27 +122,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="collatz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Automate-the-Boring-Stuff-Lesson-Code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 3/collatz.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="ticTacToe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Automate-the-Boring-Stuff-Lesson-Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Chess Dictionary Validator" />
         <item itemvalue="Python.ticTacToe" />
         <item itemvalue="Python.characterCount" />
         <item itemvalue="Python.Practice Dictionairies" />
         <item itemvalue="Python.Comma" />
-        <item itemvalue="Python.collatz" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646103560246</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added ticTacToe.py a basic Tictactoe program">
+      <created>1646240751636</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1646240751636</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,6 +229,7 @@
     <MESSAGE value="First upload for chapter 4 lists" />
     <MESSAGE value="Changed file name to Comma.py, created comma.py program that adds commas after each word and an and before the last word in the list" />
     <MESSAGE value="Added Coin Flip Program that calculates chances of getting 6 heads or tails in a row over 100 flips repeated 10000 times" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Coin Flip Program that calculates chances of getting 6 heads or tails in a row over 100 flips repeated 10000 times" />
+    <MESSAGE value="Added ticTacToe.py a basic Tictactoe program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added ticTacToe.py a basic Tictactoe program" />
   </component>
 </project>
