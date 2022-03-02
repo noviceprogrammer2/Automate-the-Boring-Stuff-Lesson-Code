@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbf66830-5ee1-41dc-8ff3-a5c93ad27845" name="Changes" comment="Added Coin Flip Program that calculates chances of getting 6 heads or tails in a row over 100 flips repeated 10000 times" />
+    <list default="true" id="cbf66830-5ee1-41dc-8ff3-a5c93ad27845" name="Changes" comment="Added Coin Flip Program that calculates chances of getting 6 heads or tails in a row over 100 flips repeated 10000 times">
+      <change afterPath="$PROJECT_DIR$/Chapter 5 Dictionaries &amp; Structuring Data/Chess Dictionary Validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 5 Dictionaries &amp; Structuring Data/Practice Dictionairies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +23,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -128,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646103318613</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added Coin Flip Program that calculates chances of getting 6 heads or tails in a row over 100 flips repeated 10000 times">
+      <created>1646103560246</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1646103560246</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
