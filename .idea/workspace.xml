@@ -7,7 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbf66830-5ee1-41dc-8ff3-a5c93ad27845" name="Changes" comment="Chess Dictionary can count total pieces accurately, need to get conditions in place">
+    <list default="true" id="cbf66830-5ee1-41dc-8ff3-a5c93ad27845" name="Changes" comment="Started Chess board validator code, need to optimize loop structure">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter 5 Dictionaries &amp; Structuring Data/Chess Dictionary Validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 5 Dictionaries &amp; Structuring Data/Chess Dictionary Validator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="advanced.settings" />
   </component>
   <component name="RunManager" selected="Python.Chess Dictionary Validator">
     <configuration name="Chess Dictionary Validator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -48,7 +49,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\Brian Simons\PycharmProjects\pythonProject1\venv\Scripts\python.exe" />
+      <option name="SDK_HOME" value="C:\Users\yobo5\PycharmProjects\Automate-the-Boring-Stuff-Lesson-Code\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 5 Dictionaries &amp; Structuring Data" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -214,14 +215,7 @@
       <option name="project" value="LOCAL" />
       <updated>1646240751636</updated>
     </task>
-    <task id="LOCAL-00008" summary="Chess Dictionary can count total pieces accurately, need to get conditions in place">
-      <created>1646266329972</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1646266329972</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,7 +234,6 @@
     <MESSAGE value="Changed file name to Comma.py, created comma.py program that adds commas after each word and an and before the last word in the list" />
     <MESSAGE value="Added Coin Flip Program that calculates chances of getting 6 heads or tails in a row over 100 flips repeated 10000 times" />
     <MESSAGE value="Added ticTacToe.py a basic Tictactoe program" />
-    <MESSAGE value="Chess Dictionary can count total pieces accurately, need to get conditions in place" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chess Dictionary can count total pieces accurately, need to get conditions in place" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added ticTacToe.py a basic Tictactoe program" />
   </component>
 </project>
