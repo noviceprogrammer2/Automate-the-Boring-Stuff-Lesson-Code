@@ -1,4 +1,5 @@
-#Takes a dictionary argument and returns true or false depending on if the board is valid
+#This Program checks if the entered chessboard is valid, if it is than it prints number total pieces on board, number
+# of white/black pieces, and pawn totals
 
 #restrictions
 #Each player can have at most 16 piees
@@ -42,29 +43,29 @@ def isValidChessBoard(board):
         #white piece checker
 
         #counts white kings
-        if 'wking' in board.values():
+        if v == 'wking':
             wking = wking + 1
             totalWhitePieces = totalWhitePieces + 1
         #counts white pawns
-        elif 'wpawn' in board.values():
+        if v == 'wpawn':
             wpawn = wpawn + 1
             totalWhitePieces = totalWhitePieces + 1
         #any white piece not king or pawn added to total white pieces
-        elif 'wrook' or 'wbishop' or 'wknight'in board.values():
+        if v == 'wrook' or 'wbishop' or 'wknight' or 'wqueen':
             totalWhitePieces = totalWhitePieces + 1
 
         #black piece checker
 
         #counts black kings
-        elif 'bking' in board.values():
+        if v == 'bking':
             bking = bking + 1
             totalBlackPieces = totalBlackPieces + 1
         #counts black pawns
-        elif 'bpawn' in board.values():
+        if v == 'bpawn':
             bpawn = bpawn + 1
             totalBlackPieces = totalBlackPieces + 1
         #counts other black pieces that aren't kings or pawns
-        elif 'brook' or 'bbishop' or 'bknight' in board.values():
+        if v == 'brook' or 'bbishop' or 'bknight' or 'bqueen':
             totalBlackPieces = totalBlackPieces + 1
 
     #Tallying totals
@@ -75,8 +76,10 @@ def isValidChessBoard(board):
               'For the Black Team: there are %d pawns and %d total pieces.\n'
               'For the White Team: there are %d pawns and %d total pieces.'
               %(totalpieces,bpawn,totalBlackPieces,wpawn,totalWhitePieces))
+    elif bking>1 or wking>1:
+        print('Error! Too many kings present on the chessboard!')
 
 
-testboard = { '6c': 'wqueen', '2g': 'bbishop', '5h': 'bqueen', '3e': 'wking', '3z':'bking'}
+testboard = { '6c': 'wqueen', '2g': 'bbishop', '5h': 'bqueen', '3e': 'wking', '4f':'bking', '5f':'bking'}
 isValidChessBoard(testboard)
 
