@@ -21,8 +21,7 @@ def addToInventory(inventory, addedItems):
             #at inventory[loot_item], if already in inventory add one to it, if not in inventory, set loot_item = 0
             # then add one (tricks program into always adding one of new item if it doesn't exist yet)
             # if item exists in inventory, get statement is ignored and one is added to that item in inventory
-            inventory[loot_item] = inventory.get(loot_item,0) + 1
-        return inventory
+            inventory[loot_item] = inventory.get(loot_item,0) + 1 
 
 
 
