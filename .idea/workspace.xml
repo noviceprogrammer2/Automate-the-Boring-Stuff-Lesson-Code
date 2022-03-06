@@ -7,9 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbf66830-5ee1-41dc-8ff3-a5c93ad27845" name="Changes" comment="Finished Phone and Email program. Added section to find all the matches in the clipboard and then copy the results to the clipboard.&#10;&#10;For Date Detection: Basic Date detection program created. Can currently recognize dates and remove dates that have bad days in them. TODO: Need to figure out the logic for the months that have a specific number of dates. Getting infinitely stuck on while month loop.">
+    <list default="true" id="cbf66830-5ee1-41dc-8ff3-a5c93ad27845" name="Changes" comment="Date Detection program completely finished. Can recognize if a day is out of range for a certain month or if that day ie 32 is not real. Will print a list of dates found for any given input up to the year 9999.">
+      <change afterPath="$PROJECT_DIR$/Chapter 7 Pattern Matching with Regular Expressions/PasswordDetection.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 7 Pattern Matching with Regular Expressions/Date Detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 7 Pattern Matching with Regular Expressions/Date Detection.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="advanced.settings" />
   </component>
-  <component name="RunManager" selected="Python.Date Detection">
+  <component name="RunManager" selected="Python.PasswordDetection">
     <configuration name="Date Detection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Automate-the-Boring-Stuff-Lesson-Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="List to Dictionary Function for Fantasy Game Inventory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PasswordDetection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Automate-the-Boring-Stuff-Lesson-Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 5 Dictionaries &amp; Structuring Data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 7 Pattern Matching with Regular Expressions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 5 Dictionaries &amp; Structuring Data/List to Dictionary Function for Fantasy Game Inventory.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 7 Pattern Matching with Regular Expressions/PasswordDetection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PasswordDetection" />
         <item itemvalue="Python.Date Detection" />
         <item itemvalue="Python.phoneandEmail" />
         <item itemvalue="Python.willyouberich" />
         <item itemvalue="Python.Phone Number" />
-        <item itemvalue="Python.List to Dictionary Function for Fantasy Game Inventory" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646544078662</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Date Detection program completely finished. Can recognize if a day is out of range for a certain month or if that day ie 32 is not real. Will print a list of dates found for any given input up to the year 9999.">
+      <created>1646597205759</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1646597205759</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -251,6 +258,7 @@
     <MESSAGE value="Added ticTacToe.py a basic Tictactoe program" />
     <MESSAGE value="Created Fantasy Inventory.py and List to Dictionary Function for Fantasy Game Inventor.py" />
     <MESSAGE value="Finished Phone and Email program. Added section to find all the matches in the clipboard and then copy the results to the clipboard.&#10;&#10;For Date Detection: Basic Date detection program created. Can currently recognize dates and remove dates that have bad days in them. TODO: Need to figure out the logic for the months that have a specific number of dates. Getting infinitely stuck on while month loop." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Phone and Email program. Added section to find all the matches in the clipboard and then copy the results to the clipboard.&#10;&#10;For Date Detection: Basic Date detection program created. Can currently recognize dates and remove dates that have bad days in them. TODO: Need to figure out the logic for the months that have a specific number of dates. Getting infinitely stuck on while month loop." />
+    <MESSAGE value="Date Detection program completely finished. Can recognize if a day is out of range for a certain month or if that day ie 32 is not real. Will print a list of dates found for any given input up to the year 9999." />
+    <option name="LAST_COMMIT_MESSAGE" value="Date Detection program completely finished. Can recognize if a day is out of range for a certain month or if that day ie 32 is not real. Will print a list of dates found for any given input up to the year 9999." />
   </component>
 </project>
