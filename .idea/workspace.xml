@@ -7,11 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbf66830-5ee1-41dc-8ff3-a5c93ad27845" name="Changes" comment="Created Fantasy Inventory.py and List to Dictionary Function for Fantasy Game Inventor.py">
-      <change afterPath="$PROJECT_DIR$/Chapter 7 Pattern Matching with Regular Expressions/Date Detection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 7 Pattern Matching with Regular Expressions/willyouberich.py" afterDir="false" />
+    <list default="true" id="cbf66830-5ee1-41dc-8ff3-a5c93ad27845" name="Changes" comment="Finished Phone and Email program. Added section to find all the matches in the clipboard and then copy the results to the clipboard.&#10;&#10;For Date Detection: Basic Date detection program created. Can currently recognize dates and remove dates that have bad days in them. TODO: Need to figure out the logic for the months that have a specific number of dates. Getting infinitely stuck on while month loop.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 7 Pattern Matching with Regular Expressions/phoneandEmail.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 7 Pattern Matching with Regular Expressions/phoneandEmail.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 7 Pattern Matching with Regular Expressions/Date Detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 7 Pattern Matching with Regular Expressions/Date Detection.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646372518373</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Finished Phone and Email program. Added section to find all the matches in the clipboard and then copy the results to the clipboard.&#10;&#10;For Date Detection: Basic Date detection program created. Can currently recognize dates and remove dates that have bad days in them. TODO: Need to figure out the logic for the months that have a specific number of dates. Getting infinitely stuck on while month loop.">
+      <created>1646544078662</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1646544078662</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,17 +250,7 @@
     <MESSAGE value="Added Coin Flip Program that calculates chances of getting 6 heads or tails in a row over 100 flips repeated 10000 times" />
     <MESSAGE value="Added ticTacToe.py a basic Tictactoe program" />
     <MESSAGE value="Created Fantasy Inventory.py and List to Dictionary Function for Fantasy Game Inventor.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Fantasy Inventory.py and List to Dictionary Function for Fantasy Game Inventor.py" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Chapter 7 Pattern Matching with Regular Expressions/willyouberich.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Finished Phone and Email program. Added section to find all the matches in the clipboard and then copy the results to the clipboard.&#10;&#10;For Date Detection: Basic Date detection program created. Can currently recognize dates and remove dates that have bad days in them. TODO: Need to figure out the logic for the months that have a specific number of dates. Getting infinitely stuck on while month loop." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Phone and Email program. Added section to find all the matches in the clipboard and then copy the results to the clipboard.&#10;&#10;For Date Detection: Basic Date detection program created. Can currently recognize dates and remove dates that have bad days in them. TODO: Need to figure out the logic for the months that have a specific number of dates. Getting infinitely stuck on while month loop." />
   </component>
 </project>
