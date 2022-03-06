@@ -8,11 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbf66830-5ee1-41dc-8ff3-a5c93ad27845" name="Changes" comment="Created Fantasy Inventory.py and List to Dictionary Function for Fantasy Game Inventor.py">
-      <change afterPath="$PROJECT_DIR$/Chapter 7 Pattern Matching with Regular Expressions/Phone Number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Automate-the-Boring-Stuff-Lesson-Code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Automate-the-Boring-Stuff-Lesson-Code.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 7 Pattern Matching with Regular Expressions/Date Detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 7 Pattern Matching with Regular Expressions/willyouberich.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 5 Dictionaries &amp; Structuring Data/List to Dictionary Function for Fantasy Game Inventory.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 5 Dictionaries &amp; Structuring Data/List to Dictionary Function for Fantasy Game Inventory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 7 Pattern Matching with Regular Expressions/phoneandEmail.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 7 Pattern Matching with Regular Expressions/phoneandEmail.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,29 +44,8 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="advanced.settings" />
   </component>
-  <component name="RunManager" selected="Python.Phone Number">
-    <configuration name="Chess Dictionary Validator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Automate-the-Boring-Stuff-Lesson-Code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\yobo5\PycharmProjects\Automate-the-Boring-Stuff-Lesson-Code\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 5 Dictionaries &amp; Structuring Data" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 5 Dictionaries &amp; Structuring Data/Chess Dictionary Validator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Fantasy Inventory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Date Detection">
+    <configuration name="Date Detection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Automate-the-Boring-Stuff-Lesson-Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +53,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 5 Dictionaries &amp; Structuring Data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 7 Pattern Matching with Regular Expressions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 5 Dictionaries &amp; Structuring Data/Fantasy Inventory.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 7 Pattern Matching with Regular Expressions/Date Detection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ticTacToe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="phoneandEmail" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Automate-the-Boring-Stuff-Lesson-Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +116,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 5 Dictionaries &amp; Structuring Data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 7 Pattern Matching with Regular Expressions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 5 Dictionaries &amp; Structuring Data/ticTacToe.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 7 Pattern Matching with Regular Expressions/phoneandEmail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="willyouberich" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Automate-the-Boring-Stuff-Lesson-Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 7 Pattern Matching with Regular Expressions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 7 Pattern Matching with Regular Expressions/willyouberich.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Date Detection" />
+        <item itemvalue="Python.phoneandEmail" />
+        <item itemvalue="Python.willyouberich" />
         <item itemvalue="Python.Phone Number" />
         <item itemvalue="Python.List to Dictionary Function for Fantasy Game Inventory" />
-        <item itemvalue="Python.Fantasy Inventory" />
-        <item itemvalue="Python.Chess Dictionary Validator" />
-        <item itemvalue="Python.ticTacToe" />
       </list>
     </recent_temporary>
   </component>
@@ -247,5 +246,16 @@
     <MESSAGE value="Added ticTacToe.py a basic Tictactoe program" />
     <MESSAGE value="Created Fantasy Inventory.py and List to Dictionary Function for Fantasy Game Inventor.py" />
     <option name="LAST_COMMIT_MESSAGE" value="Created Fantasy Inventory.py and List to Dictionary Function for Fantasy Game Inventor.py" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Chapter 7 Pattern Matching with Regular Expressions/willyouberich.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
